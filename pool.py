@@ -39,7 +39,7 @@ mutex = threading.Lock()
 
 # 数据库操作
 # 数据库地址
-DB_ADDR = 'localhost'
+DB_ADDR = '127.0.0.1'
 # 数据库用户名
 USER_NAME = 'root'
 # 数据库用户密码
