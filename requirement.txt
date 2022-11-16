@@ -1,5 +1,5 @@
 loguru
 numpy
 joblib
-scikit-learn==0.24.2
+scikit-learn==0.24.1
 pymysql
